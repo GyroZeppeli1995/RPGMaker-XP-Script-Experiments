@@ -88,4 +88,6 @@ Scene_Name.rb
 Scene_Gameover.rb
 Scene_Debug.rb
 Contador_Monstruos.rb
+Contador_Monstruos_Ventana.rb
+Contador_Monstruos_Scene.rb
 Main.rb
